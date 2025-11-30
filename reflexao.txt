@@ -1,0 +1,10 @@
+"A l�gica dedutiva aparece no Git porque ele pega o que est� no reposit�rio de verdade e te mostra exatamente o que mudou." 
+1. A rastreabilidade é essencial porque permite saber quem mudou o que e quando, mantendo o histórico organizado em projetos colaborativos.
+
+2. Branches tem relação com decomposição porque cada branch separa uma parte do problema para trabalhar isolado, sem mexer na main.
+
+3. O Git commit registra cada mudança de forma continua e organizada, ajudando a controlar a evolução do projeto.
+
+4. Indução parte de casos específicos para criar uma conclusão geral. Dedução parte de premissas verdadeiras e chega a conclusões garantidas. A lógica organiza raciocinios em áreas como computação, e confundir dedução com generalização é um erro.
+
+5. O git status analisa logicamente o estado atual dos arquivos. o git diff compara versões diretamente. O git log permite deduzir a evolução do projeto. O git funciona com lógica dedutiva porque cada comando segue regras claras.
