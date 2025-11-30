@@ -8,3 +8,5 @@
 4. Indução parte de casos específicos para criar uma conclusão geral. Dedução parte de premissas verdadeiras e chega a conclusões garantidas. A lógica organiza raciocinios em áreas como computação, e confundir dedução com generalização é um erro.
 
 5. O git status analisa logicamente o estado atual dos arquivos. o git diff compara versões diretamente. O git log permite deduzir a evolução do projeto. O git funciona com lógica dedutiva porque cada comando segue regras claras.
+
+A decomposição se manifesta na criação de branches ao dividir o desenvolvimento de uma funcionalidade, correção ou refatoração complexa em ramifica~ções menores e isoladas.
