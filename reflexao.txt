@@ -13,3 +13,5 @@ A decomposição se manifesta na criação de branches ao dividir o desenvolvime
 
 No git diff apareceu que eu adicionei a nova parte.
 
+Primeiro veio o commit inicial, depois o commit do branch desenvolvimento com as novas respostas, e por fim o merge que juntou tudo nam ain.
+
